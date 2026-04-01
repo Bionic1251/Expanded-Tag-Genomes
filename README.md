@@ -12,11 +12,9 @@ The dataset generated in this project can be accessed [here](https://strath-my.s
 
 ## License
 
-At this stage, the **code** and **dataset** in this repository are provided **for viewing purposes only**.  
-You may **not use, copy, modify, or distribute** any part of the code or dataset at this time.
+This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) License. If you use this code and/or dataset, please cite the following paper:
 
-The materials are temporarily restricted while the paper associated with this repository is under review.  
-Once the paper is **accepted for publication**, both the **code** and the **dataset** will be released under a **Creative Commons license** that allows legal and free use in academic and research settings.
+- [[Kotkov et al., 2026] Denis Kotkov, Alan Medlar, Dorota Glowacka, and Martin Halvey. 2026. Expanded Tag Genomes for Cross-Domain Recommendation. In Proceedings of the 2026 Conference on Human Information Interaction and Retrieval (CHIIR '26). Association for Computing Machinery, New York, NY, USA, 84–88. https://doi.org/10.1145/3786304.3787950](https://dl.acm.org/doi/10.1145/3786304.3787950)
 
 ---
 
