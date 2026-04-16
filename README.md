@@ -8,7 +8,7 @@ The repository consists of two main parts:
 - [**Score Generation**](generation/README.md): Uses training data (from Evaluation or downloaded directly) to generate item-tag scores.
 
 ## Dataset
-The dataset generated in this project can be accessed [here](https://strath-my.sharepoint.com/:f:/g/personal/denis_kotkov_strath_ac_uk/EoZz-jf_CRBPin-9e9g6uaQBLGLVffPKmydYbvK2RIpVLg?e=afdZdV).
+The dataset generated in this project can be accessed [here](https://strath-my.sharepoint.com/:f:/g/personal/denis_kotkov_strath_ac_uk/IgCGc_o3_wkQT4p_vXvYOrmkASxi1X3zypsnWG7ytkSKVS4?e=RLjlJZ).
 
 ## License
 
